@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  a {
+    color: white;
+  }
+  ul {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  h1 {
+    text-align: center;
+  }
+  @media (max-width: 500px) {
+     li {
+        display: block;
+        padding: 5px;
+     }
+  }
