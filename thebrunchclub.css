@@ -1,4 +1,5 @@
 header {
+    width: 100%;
     text-align: center;
     background-color: black;
     color: white;
@@ -33,5 +34,5 @@ header {
   font-weight: bold;
   border-width: 0;
   text-align: center;
-  text-indent: 50%;
+  line-height: 300px;
 }
