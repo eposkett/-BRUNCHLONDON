@@ -2,6 +2,7 @@ header {
     text-align: center;
     background-color: black;
     color: white;
+    border-width: 0;
   }
   a {
     color: white;
@@ -30,4 +31,6 @@ header {
   background-color: steelblue;
   color: white;
   font-weight: bold;
+  border-width: 0;
+  text-align: center;
 }
